@@ -4,8 +4,8 @@ An AI-powered web app that predicts whether a student will get placed,
 built using **Logistic Regression** trained on **9,000 student records**.
 
 ## 🔗 Live Demo
-👉 [Click here to try the app](YOUR_STREAMLIT_LINK_HERE)  
-*(Replace this link after deploying on Streamlit Cloud)*
+👉(https://k5g7wsbk7qzzq9uh57ga7d.streamlit.app/)
+
 
 ---
 
